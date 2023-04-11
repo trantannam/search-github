@@ -1,0 +1,22 @@
+.left{
+    width: 30%;
+    float: left;
+}
+
+.right{
+    width: 60%;
+    float: left;
+}
+
+.repos{
+    text-align: left;
+    border: 2px solid #000;
+    margin: 1rem 0 0.5rem 0;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+
+.table{
+    padding: 10px;
+}

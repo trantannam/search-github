@@ -1,0 +1,50 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: bisque; */
+}
+  
+.insert-info{
+    margin: 40px auto;
+    text-align: center;
+}
+  
+.input-username{
+    width: 40%;
+    border-radius: 1.5rem;
+    font-size: 20px;
+    padding: 8px 0 8px 15px;
+}
+  
+.btn{
+    margin-left: 1rem;
+    width: 8rem;
+    height: 2.8rem;
+    border-radius: 12px;
+    background-color: aqua;
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 20px;
+    border-color: aqua;
+}
+
+.list-users{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.user{
+    width: 16rem;
+    float: left;
+    margin: 1.5rem;
+    border: 2px solid #005f66;
+    background: beige;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.img{
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 50%;
+}
